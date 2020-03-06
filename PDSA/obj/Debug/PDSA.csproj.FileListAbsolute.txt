@@ -1,0 +1,28 @@
+C:\Users\DELL\Desktop\PDSA\PDSA\PDSA\bin\Debug\PDSA.exe.config
+C:\Users\DELL\Desktop\PDSA\PDSA\PDSA\bin\Debug\PDSA.exe
+C:\Users\DELL\Desktop\PDSA\PDSA\PDSA\bin\Debug\PDSA.pdb
+C:\Users\DELL\Desktop\PDSA\PDSA\PDSA\obj\Debug\PDSA.Form1.resources
+C:\Users\DELL\Desktop\PDSA\PDSA\PDSA\obj\Debug\PDSA.Properties.Resources.resources
+C:\Users\DELL\Desktop\PDSA\PDSA\PDSA\obj\Debug\PDSA.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\PDSA\PDSA\PDSA\obj\Debug\PDSA.exe
+C:\Users\DELL\Desktop\PDSA\PDSA\PDSA\obj\Debug\PDSA.pdb
+C:\Users\DELL\Desktop\PDSA\PDSA\PDSA\obj\Debug\PDSA.Home.resources
+C:\Users\DELL\Desktop\PDSA\PDSA\PDSA\obj\Debug\PDSA.Calculation.resources
+C:\Users\DELL\Desktop\PDSA\PDSA\PDSA\bin\Debug\marksanalysis.mdf
+C:\Users\DELL\Desktop\PDSA\PDSA\PDSA\bin\Debug\marksanalysis_log.ldf
+C:\Users\DELL\Desktop\PDSA\PDSA\PDSA\obj\Debug\PDSA.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\PDSA\PDSA\PDSA\obj\Debug\PDSA.details.resources
+E:\NIBM\higher national  diploma\1st sem\1st stage\PDSA\PDSA\PDSA\PDSA\bin\Debug\PDSA.exe.config
+E:\NIBM\higher national  diploma\1st sem\1st stage\PDSA\PDSA\PDSA\PDSA\obj\Debug\PDSA.exe
+E:\NIBM\higher national  diploma\1st sem\1st stage\PDSA\PDSA\PDSA\PDSA\obj\Debug\PDSA.pdb
+E:\NIBM\higher national  diploma\1st sem\1st stage\PDSA\PDSA\PDSA\PDSA\bin\Debug\marksanalysis.mdf
+E:\NIBM\higher national  diploma\1st sem\1st stage\PDSA\PDSA\PDSA\PDSA\bin\Debug\marksanalysis_log.ldf
+E:\NIBM\higher national  diploma\1st sem\1st stage\PDSA\PDSA\PDSA\PDSA\bin\Debug\PDSA.exe
+E:\NIBM\higher national  diploma\1st sem\1st stage\PDSA\PDSA\PDSA\PDSA\bin\Debug\PDSA.pdb
+E:\NIBM\higher national  diploma\1st sem\1st stage\PDSA\PDSA\PDSA\PDSA\obj\Debug\PDSA.csprojResolveAssemblyReference.cache
+E:\NIBM\higher national  diploma\1st sem\1st stage\PDSA\PDSA\PDSA\PDSA\obj\Debug\PDSA.Calculation.resources
+E:\NIBM\higher national  diploma\1st sem\1st stage\PDSA\PDSA\PDSA\PDSA\obj\Debug\PDSA.details.resources
+E:\NIBM\higher national  diploma\1st sem\1st stage\PDSA\PDSA\PDSA\PDSA\obj\Debug\PDSA.Form1.resources
+E:\NIBM\higher national  diploma\1st sem\1st stage\PDSA\PDSA\PDSA\PDSA\obj\Debug\PDSA.Home.resources
+E:\NIBM\higher national  diploma\1st sem\1st stage\PDSA\PDSA\PDSA\PDSA\obj\Debug\PDSA.Properties.Resources.resources
+E:\NIBM\higher national  diploma\1st sem\1st stage\PDSA\PDSA\PDSA\PDSA\obj\Debug\PDSA.csproj.GenerateResource.Cache
